@@ -1,3 +1,5 @@
+# Privacy Policy for Workspaces extension
+
 *Last updated: September 23, 2020*
 
 This Privacy Policy applies to the Workspaces browser extension built by Mincho Labs (champnic@microsoft.com).
